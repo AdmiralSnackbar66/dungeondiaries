@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/Home.md",
+                "file": "docs/index.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "index"
             }
           }
         ]
@@ -240,8 +240,10 @@
   },
   "active": "3133b002e1020a40",
   "lastOpenFiles": [
-    "docs/blog/Test blog post.md",
+    "1-Party/Example Party 1/Example Party 1.md",
     "docs/index.md",
+    "1-DM Toolkit/Home.md",
+    "docs/blog/Test blog post.md",
     "docs/blog",
     "1-DM Toolkit/Vault Report.md",
     "site/index.html",
@@ -261,11 +263,9 @@
     "2-World/New Home Town.md",
     "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
     "1-DM Toolkit/DM Board.md",
-    "1-Party/Example Party 1/Example Party 1.md",
     "1-DM Toolkit/DnD5e-SideScreen-2024.md",
     "3-Mechanics/Where To Get Mechanics.md",
     "z_Templates/TemplateGroup.md",
-    "1-DM Toolkit/Home.md",
     "1-DM Toolkit/Travel Calculator.md",
     "1-DM Toolkit/PF2e-DM Screen.md",
     "1-DM Toolkit/Map Calculator.md",
